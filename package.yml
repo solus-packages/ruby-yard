@@ -1,8 +1,8 @@
 name       : ruby-yard
-version    : 0.9.5
-release    : 1
+version    : 0.9.9
+release    : 2
 source     :
-    - https://rubygems.org/downloads/yard-0.9.5.gem : 5ab1ed8378244a88b36bcd224f9ea44c4f9102e24f517a8fd1490178a00654be
+    - https://rubygems.org/downloads/yard-0.9.9.gem : aae74f34bb1de444d5429a213ef995738d9d3a0fe5cc7ae061756277bc02a6a7
 license    : MIT
 component  : programming
 summary    : YARD is a documentation generation tool for the Ruby programming language.
